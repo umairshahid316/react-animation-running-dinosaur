@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-animation-running-dinosaur/static/css/main.868c8e33.chunk.css",
+    "main.js": "/react-animation-running-dinosaur/static/js/main.61b2ee2a.chunk.js",
+    "main.js.map": "/react-animation-running-dinosaur/static/js/main.61b2ee2a.chunk.js.map",
+    "runtime-main.js": "/react-animation-running-dinosaur/static/js/runtime-main.6bf31761.js",
+    "runtime-main.js.map": "/react-animation-running-dinosaur/static/js/runtime-main.6bf31761.js.map",
+    "static/js/2.95a854a0.chunk.js": "/react-animation-running-dinosaur/static/js/2.95a854a0.chunk.js",
+    "static/js/2.95a854a0.chunk.js.map": "/react-animation-running-dinosaur/static/js/2.95a854a0.chunk.js.map",
+    "static/js/3.940d07c6.chunk.js": "/react-animation-running-dinosaur/static/js/3.940d07c6.chunk.js",
+    "static/js/3.940d07c6.chunk.js.map": "/react-animation-running-dinosaur/static/js/3.940d07c6.chunk.js.map",
+    "index.html": "/react-animation-running-dinosaur/index.html",
+    "static/css/main.868c8e33.chunk.css.map": "/react-animation-running-dinosaur/static/css/main.868c8e33.chunk.css.map",
+    "static/js/2.95a854a0.chunk.js.LICENSE.txt": "/react-animation-running-dinosaur/static/js/2.95a854a0.chunk.js.LICENSE.txt",
+    "static/media/birds.5fa25cec.gif": "/react-animation-running-dinosaur/static/media/birds.5fa25cec.gif",
+    "static/media/logo.103b5fa1.svg": "/react-animation-running-dinosaur/static/media/logo.103b5fa1.svg",
+    "static/media/men.88c312c8.gif": "/react-animation-running-dinosaur/static/media/men.88c312c8.gif",
+    "static/media/palm3_small.97fe44fb.png": "/react-animation-running-dinosaur/static/media/palm3_small.97fe44fb.png",
+    "static/media/rock.c88a47f1.png": "/react-animation-running-dinosaur/static/media/rock.c88a47f1.png",
+    "static/media/trees.3f46d4fa.gif": "/react-animation-running-dinosaur/static/media/trees.3f46d4fa.gif",
+    "static/media/vector1.0b62101b.gif": "/react-animation-running-dinosaur/static/media/vector1.0b62101b.gif",
+    "static/media/women.1542010c.gif": "/react-animation-running-dinosaur/static/media/women.1542010c.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bf31761.js",
+    "static/js/2.95a854a0.chunk.js",
+    "static/css/main.868c8e33.chunk.css",
+    "static/js/main.61b2ee2a.chunk.js"
+  ]
+}
